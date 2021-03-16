@@ -11,6 +11,7 @@ python3 -m venv venv && source venv/bin/activate
 ```bash
 pip3 install --upgrade pip && pip3 install -r requirements.txt
 ```
+Теперь можно тестировать собственные модели, редактируя файл `generate_submission.py`.
 
 Архивируем результаты для отправки в контест:
 ```bash
